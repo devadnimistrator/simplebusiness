@@ -190,207 +190,56 @@
 			</div>
 			<!--=== End Slider ===-->
 
-			<!--  About Section -->
-			<section id="about" class="about-section section-first">
-				<div class="content-md">
-					<div class="container">
-						<div class="row text-center margin-bottom-60">
-							<div class="col-md-4 md-margin-bottom-50">
-								<img class="image-md margin-bottom-20" src="assets\img\icons\flat\01.png">
-								<h1>Our Team</h1>
-								<p>We are a team of business oriented IT gurus who work collectively for clients throughout the world for different projects related to business, IT, recruiting and other genre.</p>
-							</div>
-							<div class="col-md-4 md-margin-bottom-50">
-								<img class="image-md margin-bottom-20" src="assets\img\icons\flat\02.png">
-								<h1>Our Service</h1>
-								<p>“We help businesses grow.” We have helped businesses throughout the world by improving their online representation and providing them business solutions.</p>
-							</div>
-							<div class="col-md-4 md-margin-bottom-50">
-								<img class="image-md margin-bottom-20" src="assets\img\icons\flat\03.png">
-								<h1>Why AN IT Solution?</h1>
-								<p>We are available, all the time”. Our clients receive continuous support for all kinds of projects. Our work is our passion and we stand-by our clients at all times.</p>
-							</div>
-						</div>
-					</div>
+			<div class="container content-sm">
+				<div class="text-center margin-bottom-50">
+					<h2 class="title-v2 title-center">Introduction</h2>
+					<p class="space-lg-hor">
+						Our business model is to embrace disruptive technologies, innovate, and walk our clients towards creative solutions that directly translate into competitive advantage. 
+					</p>
+					<p>
+						Vision: To be recognized as a company of “doers” that don’t sugarcoat the facts, and value quality over quantity. 
+					</p>
+					<p>
+						Mission: Blue Lynx Technical, Inc. is a company that is built on the idea that success for our customers is success for us. 
+					</p>	
 				</div>
 
-				<div class="row">
-					<div class="container content-lg col-md-12" style="background-color: #ed0707;">
-						<div class="row col-md-6">
-							<div class="md-margin-center-50" style="text-align: center">
-								<h2 style="font-size: 30px;color: #ffffff;line-height: 55px;text-align: center;font-family:Raleway;font-weight:600;font-style:normal" class="vc_custom_heading">Start Getting Results Online </h2>
-							</div>
+			</div>
 
-						</div>
-						<div class="col-md-6">
-								<button type="button" class="btn btn-default btn-lg" >Request a Quote</button>
-						</div>
+			<div class="bg-grey content-sm">
+				<div class="container team-v1">
+					<div class="margin-bottom-40 text-center">
+						<h2 class="title-v2 title-center">Our Leadership Team</h2>
 					</div>
+	
+					<ul class="list-unstyled row">
+						<li class="col-sm-4 md-margin-bottom-30">
+							<div class="team-img">
+								<img class="img-responsive" src="assets/img/team/William.jpg" alt="Emerson V. Reis">
+							</div>
+							<h3>William (Bill) Rodriguez</h3>
+							<h4>Chief Executive Officer</h4>
+							<p>USMC Retired Comm Officer / Network Engineering</p>
+						</li>
+						<li class="col-sm-4 md-margin-bottom-30">
+							<div class="team-img">
+								<img class="img-responsive" src="assets/img/team/Elizabeth.jpg" alt="Annie Reisewitz">
+							</div>
+							<h3>Elizabeth (Liz) Jones</h3>
+							<h4>Chief Operations Officer</h4>
+							<p>Human Resources / Curriculum Development</p>
+						</li>
+						<li class="col-sm-4">
+							<div class="team-img">
+								<img class="img-responsive" src="assets/img/team/Todd M.jpg" alt="Tom Dieckilman">
+							</div>
+							<h3>Todd M. Lowdermilk</h3>
+							<h4>Chief Technical Officer</h4>
+							<p>Sys. Engineering / Application Development / LMS SME</p>
+						</li>
+					</ul>
 				</div>
-
-				<div class="team-v1 bg-grey content-lg">
-					<div class="container">
-<!--						<div class="title-v1">-->
-<!--							<h2>Meet Our Team</h2>-->
-<!--							<p>We <strong>meet</strong> and get to know you. You tell us and we listen. <br>-->
-<!--								We build your website to realise your vision and we <strong>deliver</strong> the ready product.</p>-->
-<!--						</div>-->
-
-						<ul class="list-unstyled row">
-							<li class="col-sm-4 col-xs-12 md-margin-bottom-30">
-								<div class="team-img">
-									<img class="img-responsive" src="assets/img/team/img1-md.jpg" alt="">
-									<ul>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-								<h3>Hire PHP Developers</h3>
-<!--								<h4>Hire PHP Developers</h4>-->
-<!--								<p>Hire PHP Developers</p>-->
-							</li>
-							<li class="col-sm-4 col-xs-12 md-margin-bottom-30">
-								<div class="team-img">
-									<img class="img-responsive" src="assets/img/team/img2-md.jpg" alt="">
-									<ul>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-								<h3>Hire SEO/SEM/SMM Executives</h3>
-<!--								<h4>/ Lead Designer</h4>-->
-<!--								<p>Lead Designer mi porta gravida at eget metus id elit mi egetine...</p>-->
-							</li>
-							<li class="col-sm-4 col-xs-12">
-								<div class="team-img">
-									<img class="img-responsive" src="assets/img/team/img3-md.jpg" alt="">
-									<ul>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-								<h3>Hire System Administraotr</h3>
-<!--								<h4>/ Web Developer</h4>-->
-<!--								<p>Web Developer in Unify agency porta gravida at eget metus id elit...</p>-->
-							</li>
-							<li class="col-sm-4 col-xs-12">
-								<div class="team-img">
-									<img class="img-responsive" src="assets/img/team/img4-md.jpg" alt="">
-									<ul>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-								<h3>Bespoke Database Systems</h3>
-<!--								<h4>/ Web Developer</h4>-->
-<!--								<p>Web Developer in Unify agency porta gravida at eget metus id elit...</p>-->
-							</li>
-							<li class="col-sm-4 col-xs-12">
-								<div class="team-img">
-									<img class="img-responsive" src="assets/img/team/img5-md.jpg" alt="">
-									<ul>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-								<h3>Website Designning and Branding</h3>
-<!--								<h4>/ Web Developer</h4>-->
-<!--								<p>Web Developer in Unify agency porta gravida at eget metus id elit...</p>-->
-							</li>
-							<li class="col-sm-4 col-xs-12">
-								<div class="team-img">
-									<img class="img-responsive" src="assets/img/team/img6-md.jpg" alt="">
-									<ul>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-								<h3>Virtual Assistance</h3>
-<!--								<h4>/ Web Developer</h4>-->
-<!--								<p>Web Developer in Unify agency porta gravida at eget metus id elit...</p>-->
-							</li>
-							<li class="col-sm-4 col-xs-12">
-								<div class="team-img">
-									<img class="img-responsive" src="assets/img/team/img7-md.jpg" alt="">
-									<ul>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-								<h3>Salesforce Development</h3>
-<!--								<h4>/ Web Developer</h4>-->
-<!--								<p>Web Developer in Unify agency porta gravida at eget metus id elit...</p>-->
-							</li>
-							<li class="col-sm-4 col-xs-12">
-								<div class="team-img">
-									<img class="img-responsive" src="assets/img/team/img8-md.jpg" alt="">
-									<ul>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-								<h3>Mobile Application Development</h3>
-<!--								<h4>/ Web Developer</h4>-->
-<!--								<p>Web Developer in Unify agency porta gravida at eget metus id elit...</p>-->
-							</li>
-							<li class="col-sm-4 col-xs-12">
-								<div class="team-img">
-									<img class="img-responsive" src="assets/img/team/img9-md.jpg" alt="">
-									<ul>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-google-plus"></i></a></li>
-									</ul>
-								</div>
-								<h3>eCommerce Development</h3>
-<!--								<h4>/ Web Developer</h4>-->
-<!--								<p>Web Developer in Unify agency porta gravida at eget metus id elit...</p>-->
-							</li>
-						</ul>
-					</div>
-				</div>
-
-
-				<div class="parallax-counter parallaxBg">
-					<div class="container">
-						<div class="row">
-							<div class="col-sm-3 col-xs-6">
-								<div class="counters">
-									<span class="counter">10629</span>
-									<h4>Users</h4>
-								</div>
-							</div>
-							<div class="col-sm-3 col-xs-6">
-								<div class="counters">
-									<span class="counter">277</span>
-									<h4>Projects</h4>
-								</div>
-							</div>
-							<div class="col-sm-3 col-xs-6">
-								<div class="counters">
-									<span class="counter">78</span>
-									<h4>Team Members</h4>
-								</div>
-							</div>
-							<div class="col-sm-3 col-xs-6">
-								<div class="counters">
-									<span class="counter">109</span>
-									<h4>Awards</h4>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!--  About Section -->
+			</div>
 
 			<?php include_once 'blocks/block_footer.php'; ?>
 		</div><!--/wrapper-->

@@ -5,7 +5,7 @@
 			<div class="header">
 				<div class="container">
 					<!-- Logo -->
-					<a class="logo" href="index.php"> <img src="assets/img/logo_img.jpg" alt="ANIT"> </a>
+					<a class="logo" href="index.php"> <img src="assets/img/logo_img.png" alt="TOTUS Investments"> </a>
 					<!-- End Logo -->
 
 					<!-- Topbar -->
@@ -34,31 +34,41 @@
 						<ul class="nav navbar-nav">
 							<!-- Home -->
 							<li class="<?php echo ($current_page == 'index.php' ? 'active' : ''); ?>">
-								<a href="index.php"> HOME </a>
+								<a href="index.php"> Home </a>
 							</li>
 							<!-- End Home -->
 
-							<!-- ABOUT US -->
-							<li class=" <?php echo (($current_page == 'about us.php') ? 'active' : ''); ?>">
-								<a href="about us.php"> ABOUT US </a>
-							</li>
-							<!-- End ABOUT US -->
+							<!-- Who we are -->
+							<li class="dropdown <?php echo (($current_page == 'who-we-are.php' || $current_page == 'our-firm.php' || $current_page == 'leadership-team.php') ? 'active' : ''); ?>">
+								<a href="who-we-are.php"> Who We Are </a>
+								<ul class="dropdown-menu">
+									<li class="<?php echo ($current_page == 'our-firm.php' ? 'active' : ''); ?>"><a href="our-firm.php">Our Firm</a></li>
+									<li class="<?php echo ($current_page == 'leadership-team.php' ? 'active' : ''); ?>"><a href="leadership-team.php">Leadership Team</a></li>
+								</ul>
+							</li> 
+							<!-- End Who we are -->
 							
-							<!-- SERVICE -->
-							<li class="<?php echo ($current_page == 'service.php' ? 'active' : ''); ?>">
-								<a href="service.php"> SERVICE </a>
+							<!-- What We Do -->
+							<li class="<?php echo ($current_page == 'what-we-do.php' ? 'active' : ''); ?>">
+								<a href="what-we-do.php"> Service </a>
 							</li>
-							<!-- End SERVICE -->
+							<!-- End What We Do -->
 							
-							<!-- PORTOFOLIO -->
-							<li class="<?php echo ($current_page == 'portfolio.php' ? 'active' : ''); ?>">
-								<a href="portfolio.php"> PORTFOLIO </a>
+							<!-- Investors Portal -->
+							<li class="<?php echo ($current_page == 'investors-portal.php' ? 'active' : ''); ?>">
+								<a href="investors-portal.php"> Investors Portal </a>
 							</li>
-							<!-- End PORTOFOLIO -->
+							<!-- End Investors Portal -->
+							
+							<!-- Blog -->
+							<li class="<?php echo ($current_page == 'news.php' ? 'active' : ''); ?>">
+								<a href="news.php"> News </a>
+							</li>
+							<!-- End Blog -->
 							
 							<!-- Contact US -->
 							<li class="<?php echo ($current_page == 'contact.php' ? 'active' : ''); ?>">
-								<a href="contact.php"> CONTACT US </a>
+								<a href="contact.php"> Contact </a>
 							</li>
 							<!-- End Contact US -->
 							

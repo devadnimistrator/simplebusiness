@@ -10,29 +10,7 @@
 		<title>FAQ | TOTUS</title>
 
 		<?php include_once("blocks/meta_tags.php"); ?>
-		<?php include_once("blocks/css.php"); 
-		
-			function solution(&$A){
-				$n = sizeof($A);
-				$L = array_pad(array(), $n+1, -1);
-				for($i = 0; $i < $n; $i++){
-					$L[$i + 1] = $A[$i];
-				}
-				$count = 0;
-				$pos = (int)(($n+1)/2);
-				$candidate = $L[$pos];
-				for($i = 1; $i <= $n; $i++){
-					if($L[$i] == $candidate)
-						$count = $count +1;
-				}
-				if($count > $pos)
-					return $candidate;
-				return (-1);
-			}
-		
-		
-		
-		?>
+		<?php include_once("blocks/css.php"); ?>
 		
 		<!-- CSS Page Style -->
 		<link rel="stylesheet" href="assets/css/pages/page_faq1.css">		
